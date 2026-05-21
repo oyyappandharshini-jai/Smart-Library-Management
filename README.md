@@ -22,4 +22,4 @@ A beginner-friendly library management project using Python, Tkinter, and SQLite
 python main.py
 
 ## Author
-Your Name
+Dharshini Oyyappan
